@@ -1,8 +1,6 @@
 Rails.application.routes.draw do
   
   root 'home#index'
-  devise_for :users
+  devise_for :users, :controllers => { :omniauth_callbacks => "sessions" }
   
-  # for omniauth
-  get '/auth/:provider/callback', to: 'sessions#create'
 end

@@ -1,3 +1,5 @@
-class SessionsController < ApplicationController
-	
+class SessionsController < Devise::OmniauthCallbacksController
+	def twitter
+		
+	end
 end
