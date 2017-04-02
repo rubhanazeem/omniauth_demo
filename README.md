@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Some useful resources.
+___
+[Omniauth](https://github.com/omniauth/omniauth)
+[Omniauth Facebook](https://github.com/mkdynamic/omniauth-facebook)
+[Omniauth Google](https://github.com/zquestz/omniauth-google-oauth2)
+[Omniauth Twitter](#)
+[Devise Omniauth overview](https://github.com/plataformatec/devise/wiki/OmniAuth:-Overview)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
