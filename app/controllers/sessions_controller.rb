@@ -6,4 +6,8 @@ class SessionsController < Devise::OmniauthCallbacksController
 	def facebook
 		
 	end
+
+	def google_oauth2
+		
+	end
 end

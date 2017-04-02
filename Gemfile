@@ -19,7 +19,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-twitter'
-
+gem 'omniauth-facebook'
+gem 'omniauth-google-oauth2'
 gem 'figaro'
 
 group :development, :test do
